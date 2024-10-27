@@ -15,7 +15,6 @@ Aplikasi Kelontong adalah sistem manajemen toko modern yang dirancang khusus unt
 
 ## ✨ Fitur Utama
 
-- 👥 Manajemen Pengguna dengan Sistem Role
 - 🛍️ Manajemen Produk dan Kategori
 - 📦 Pelacakan Stok Barang
 - 💰 Proses Transaksi Penjualan
